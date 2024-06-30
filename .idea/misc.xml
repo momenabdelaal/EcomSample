@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/WORK PERSONAL/EcomApp/app/src/main/res/drawable-v24/background_rounded_home.xml" value="0.1" />
+        <entry key="..\:/WORK PERSONAL/EcomApp/app/src/main/res/drawable/background_rounded_home.xml" value="0.1" />
+        <entry key="..\:/WORK PERSONAL/EcomApp/app/src/main/res/drawable/ic_back.xml" value="0.143" />
+        <entry key="..\:/WORK PERSONAL/EcomApp/app/src/main/res/layout/activity_main.xml" value="0.1488860325621251" />
+        <entry key="..\:/WORK PERSONAL/EcomApp/app/src/main/res/layout/fragment_category.xml" value="0.1" />
+        <entry key="..\:/WORK PERSONAL/EcomApp/app/src/main/res/layout/fragment_home.xml" value="0.1488860325621251" />
+        <entry key="..\:/WORK PERSONAL/EcomApp/app/src/main/res/layout/item_home_row.xml" value="0.15081405312767782" />
+        <entry key="..\:/WORK PERSONAL/EcomApp/app/src/main/res/layout/item_pager.xml" value="0.1" />
+        <entry key="..\:/WORK PERSONAL/EcomApp/app/src/main/res/layout/tool_bar.xml" value="0.1488860325621251" />
+        <entry key="..\:/WORK PERSONAL/EliteAppDemo/app/src/main/res/drawable-v24/ic_close_white.xml" value="0.242" />
+        <entry key="..\:/WORK PERSONAL/EliteAppDemo/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1505" />
+        <entry key="..\:/WORK PERSONAL/EliteAppDemo/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/WORK PERSONAL/EliteAppDemo/app/src/main/res/layout/fragment_category.xml" value="0.3087719298245614" />
+        <entry key="..\:/WORK PERSONAL/EliteAppDemo/app/src/main/res/layout/fragment_home.xml" value="0.2255892255892256" />
+        <entry key="..\:/WORK PERSONAL/EliteAppDemo/app/src/main/res/layout/image_layout.xml" value="0.2351851851851852" />
+        <entry key="..\:/WORK PERSONAL/EliteAppDemo/app/src/main/res/layout/item_home_row.xml" value="0.17295597484276728" />
+        <entry key="..\:/WORK PERSONAL/EliteAppDemo/app/src/main/res/layout/layout_dialog.xml" value="0.3087719298245614" />
+        <entry key="..\:/WORK PERSONAL/EliteAppDemo/app/src/main/res/layout/tool_bar.xml" value="0.2844311377245509" />
+        <entry key="..\:/WORK/Job Android Uramit/TodoListApp/app/src/main/res/layout/activity_base.xml" value="0.1587719298245614" />
+        <entry key="..\:/WORK/Job Android Uramit/TodoListApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/WORK/Job Android Uramit/TodoListApp/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/WORK/Job Android Uramit/TodoListApp/app/src/main/res/layout/app_bar_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/WORK/Job Android Uramit/TodoListApp/app/src/main/res/layout/content_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/WORK/Job Android Uramit/TodoListApp/app/src/main/res/layout/dialog.xml" value="0.1587719298245614" />
+        <entry key="..\:/WORK/Job Android Uramit/TodoListApp/app/src/main/res/layout/fragment_home.xml" value="0.2037037037037037" />
+        <entry key="..\:/WORK/Job Android Uramit/TodoListApp/app/src/main/res/layout/item_home_row.xml" value="0.1" />
+        <entry key="..\:/WORK/Job Android Uramit/TodoListApp/app/src/main/res/layout/tool_bar.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
